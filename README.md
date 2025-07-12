@@ -1,2 +1,2 @@
 # dev-container
-dev-containerの練習よう
+dev-containerの練習用
